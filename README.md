@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Todorov</h1>
-<h3 align="center">A Marine Engineer who want to become a Software Engineer as well.</h3>
+<h3 align="center">A Marine Engineer who wants to become a Software Engineer as well.</h3>
 
 <p align="center">
 <img src=https://user-images.githubusercontent.com/90638750/134030366-72ab8a05-e0ca-464b-9da5-294c4fbd9d81.jpg>
